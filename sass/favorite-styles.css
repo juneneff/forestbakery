@@ -1,0 +1,137 @@
+body {
+    font-family: Abel, Marvel, Molengo, Antic, Overlock SC;
+    color: #000;
+    margin: 0;
+    background-color: #F7DFFF;
+}
+nav  ul li {
+    padding-top: 8px;
+
+}
+
+
+nav {
+    text-align: center;
+    overflow: auto;
+    background-color: #FFC6D9;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,166,166,1.00) 0%,rgba(255,198,217,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,166,166,1.00) 0%,rgba(255,198,217,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,166,166,1.00) 0%,rgba(255,198,217,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,166,166,1.00) 0%,rgba(255,198,217,1.00) 100%);
+    height: 50px;
+}
+
+ul {
+  list-style: none;
+  margin: 5px; }
+  ul li {
+    display: inline-block; }
+    ul li a {
+    margin-top: 0px;
+    margin-right: 4px;
+    margin-left: 4px;
+    margin-bottom: 12px;
+    padding: 10px 15px;
+    color: #fff;
+    text-decoration: none;
+    font-family: overlock;
+    font-style: normal;
+    font-weight: 400;
+    font-size: large;
+}
+.d-block {
+    display: block;
+}
+.container.mt-3 .w-100.d-block {
+}
+p {
+    text-align: left;
+    font-family: french-canon, droid-serif, bentham, Roman;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h1 p {
+    text-align: center;
+    color: #FFA6A6;
+    text-shadow: 2px 2px 2px #5F5F5F;
+    font-family: overlock, pt-sans, antic, molengo, marvel;
+    font-style: normal;
+    font-weight: 400;
+}
+
+h1  {
+    padding-top: 30px;
+    font-size: xx-large;
+}
+h5  {
+    color: #FFA6A6;
+    font-family: overlock, pt-sans, antic, molengo, marvel;
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+.container.mt-3 .w-100.d-block {
+}
+img {
+
+}
+
+main {
+    background-color: #E6E5FA;
+}
+ul li a:hover {
+    text-decoration-line: none;
+    color: #000000;
+
+}
+
+img.w-100.d-block.hero {
+    -webkit-box-shadow: 4px 8px 12px #444242;
+    box-shadow: 4px 8px 12px #444242;
+}
+
+.hero {
+}
+.card-top {
+    padding-bottom: 9px;
+}
+h5 {
+    color: #FFA6A6;
+    font-family: overlock, pt-sans, antic, molengo, marvel;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+.pd-md-0 {
+}
+img.first {
+    width: 33%;
+}
+.col-md-4.pb-1.pb-md-0.col-xl-9 .card .card-top.first {
+}
+header {
+}
+h2 {
+    font-family: abel, overlock, pt-sans, antic, molengo, marvel;
+    font-style: normal;
+    font-weight: 400;
+}
+.price {
+}
+footer p a {
+    color: #FFFFFF;
+    text-align: center;
+
+}
+footer p a:hover  {
+    color: #FFC6D9;
+    text-align: center;
+    text-decoration: none;
+    text-decoration-line: none;
+
+}
